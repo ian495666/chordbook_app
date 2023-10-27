@@ -17,7 +17,9 @@ class Song extends Model
         'song_title',
         'album_title',
         'release_year',
-        'band_id'
+        'image',
+        'song_file',
+        'artist'
     ];
 
 }

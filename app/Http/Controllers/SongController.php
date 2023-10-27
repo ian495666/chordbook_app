@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Song;
+use Illuminate\Http\RedirectResponse;
+use App\Http\Controllers\options;
+use App\Http\Controllers\Input;
 
 class SongController extends Controller
 {
@@ -47,18 +50,30 @@ class SongController extends Controller
      */
     public function store(Request $request)
     {
-        $request->validate([
+        $validatedInputs = $request->validate([
             'song_title' => 'required',
             // 'album_title' => 'required',
             'release_year' => 'required',
-            'artist' => 'required'
+            'artist' => 'required',
+            'image' => 'required',
+            'song_file' => 'required'
         ]);
+
+        $validatedInputs['image'] = $request->file('image')->store('public/images');
+        $validatedInputs['song_file'] = $request->file('song_file')->store('public/files');
+
+
+
+
+
 
         $song = Song::create([
             'song_title' => $request -> song_title,
             'album_title' => $request -> album_title,
             'release_year' => $request -> release_year,
-            'artist' => $request -> artist
+            'artist' => $request -> artist,
+            'image' =>$request -> image,
+            'song_file' =>$request -> song_file
         ]);
 
         return redirect('/songs/'.$song->id)->with('success', 'Song Submitted Successfully!');
@@ -74,6 +89,14 @@ class SongController extends Controller
     {
        $song = Song::find($id);
        return view('songs.show',[
+        'song' => $song
+       ]);
+    }
+
+    public function play($id)
+    {
+       $song = Song::find($id);
+       return view('songs.play',[
         'song' => $song
        ]);
     }

@@ -35,6 +35,7 @@ Route::get('/songs/create', [SongController::class, 'create'])->name('song.creat
 
 Route::get('/songs/{id}', [SongController::class, 'show'])->name('song.show');
 Route::get('/songs/{id}/edit', [SongController::class, 'edit'])->name('song.edit');
+Route::get('/songs/{id}/play', [SongController::class, 'play'])->name('song.play');
 
 Route::post('/songs', [SongController::class, 'store'])->name('song.store');
 Route::put('/songs/{id}/edit', [SongController::class, 'update'])->name('song.update');

@@ -8,12 +8,15 @@
                 <h1>Submit A New Song</h1>
             </div>
             <div class="card-body">
-                <form action="{{route('song.store')}}" method="post">
+                <form action="{{route('song.store')}}" method="post" enctype="multipart/form-data">
                     @csrf
                     @method('post')
                     <div class="form-group">
                       <label for="formGroupExampleInput">Artist</label>
                       <input type="text" class="form-control" id="formGroupExampleInput" name="artist" placeholder="Input Name" value={{ old('artist') }}>
+                        @error('artist')
+                            <div class="alert alert-danger">{{ $message }}</div>
+                        @enderror
                     </div>
                     <div class="form-group">
                       <label for="formGroupExampleInput">Song Title</label>
@@ -33,6 +36,20 @@
                       <label for="formGroupExampleInput2">Release Year</label>
                       <input type="number" class="form-control" id="formGroupExampleInput2" name="release_year" placeholder="Input Year" value={{ old('release_year') }}>
                         @error('release_year')
+                            <div class="alert alert-danger">{{ $message }}</div>
+                        @enderror
+                    </div>
+                    <div class="mb-3">
+                        <label for="formFile" class="form-label">Choose An Image</label>
+                        <input class="form-control" type="file" id="formFile" name="image">
+                        @error('image')
+                            <div class="alert alert-danger">{{ $message }}</div>
+                        @enderror
+                    </div>
+                    <div class="mb-3">
+                        <label for="formFile" class="form-label">Choose A PDF File</label>
+                        <input class="form-control" type="file" id="formFile" name="song_file">
+                        @error('song_file')
                             <div class="alert alert-danger">{{ $message }}</div>
                         @enderror
                     </div>
