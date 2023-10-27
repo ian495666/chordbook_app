@@ -17,10 +17,10 @@
         <br>
         <div style="width: 100%">
            <embed src="{{asset('/storage/files/'.str_replace("public/","",$song->song_file))}}"
-            style="width:100%; height:700px" type="">
+            style="width:100%; height:1000px" type="">
         </div>
         <div class="d-flex flex-column" style="width: 100%">
-            <div class="bg-light p-2 text-black" style="width:100%; height:70%">
+            <div class="bg-light p-2 text-black" style="width:100%; height:60%">
                   <div id="myDIVab" style="display: none">
                     <ins class="scales_chords_api" chord="ab" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
                     <ins class="scales_chords_api" chord="ab" instrument="guitar" output="sound"></ins>
@@ -524,7 +524,7 @@
                 </div>
 
             </div>
-            <div class="bg-secondary p-2 d-flex flex-column text-black" style="width:100%; height:30%">
+            <div class="bg-secondary p-2 d-flex flex-column text-black" style="width:100%; height:40%">
 
                   <div class="btn-group btn-group-sm" role="group" aria-label="Small button group">
                     <button type="button" onclick="ab()" class="btn btn-light">Ab</button>
