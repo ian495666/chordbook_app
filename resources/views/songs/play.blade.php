@@ -184,7 +184,7 @@
                     <ins class="scales_chords_api" chord="bsus" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
                     <ins class="scales_chords_api" chord="bsus" instrument="guitar" output="sound"></ins>
                   </div>
-{{-- 3rd row------------------------------------------------------------------ --}}
+{{-- 4th row------------------------------------------------------------------ --}}
                 <div id="myDIVc" style="display: none">
                     <ins class="scales_chords_api" chord="c" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
                     <ins class="scales_chords_api" chord="c" instrument="guitar" output="sound"></ins>
@@ -225,7 +225,7 @@
                     <ins class="scales_chords_api" chord="csus" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
                     <ins class="scales_chords_api" chord="csus" instrument="guitar" output="sound"></ins>
                 </div>
-{{-- 4th row------------------------------------------------------------------ --}}
+{{-- 5th row------------------------------------------------------------------ --}}
                 <div id="myDIVdb" style="display: none">
                     <ins class="scales_chords_api" chord="db" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
                     <ins class="scales_chords_api" chord="db" instrument="guitar" output="sound"></ins>
@@ -267,7 +267,7 @@
                     <ins class="scales_chords_api" chord="dbsus" instrument="guitar" output="sound"></ins>
                 </div>
 
-{{-- 4th row------------------------------------------------------------------ --}}
+{{-- 6th row------------------------------------------------------------------ --}}
 
                 <div id="myDIVd" style="display: none">
                     <ins class="scales_chords_api" chord="d" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
@@ -310,7 +310,7 @@
                     <ins class="scales_chords_api" chord="dsus" instrument="guitar" output="sound"></ins>
                 </div>
 
-{{-- 5th row------------------------------------------------------------------ --}}
+{{-- 7th row------------------------------------------------------------------ --}}
 
                 <div id="myDIVeb" style="display: none">
                     <ins class="scales_chords_api" chord="eb" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
@@ -352,6 +352,177 @@
                     <ins class="scales_chords_api" chord="ebsus" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
                     <ins class="scales_chords_api" chord="ebsus" instrument="guitar" output="sound"></ins>
                 </div>
+
+{{-- 8th row------------------------------------------------------------------ --}}
+                <div id="myDIVe" style="display: none">
+                    <ins class="scales_chords_api" chord="e" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="e" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVem" style="display: none">
+                    <ins class="scales_chords_api" chord="em" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="em" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVe6" style="display: none">
+                    <ins class="scales_chords_api" chord="e6" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="e6" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVe7" style="display: none">
+                    <ins class="scales_chords_api" chord="e7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="e7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVe9" style="display: none">
+                    <ins class="scales_chords_api" chord="e9" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="e9" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVem6" style="display: none">
+                    <ins class="scales_chords_api" chord="em6" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="em6" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVem7" style="display: none">
+                    <ins class="scales_chords_api" chord="em7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="em7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVe7" style="display: none">
+                    <ins class="scales_chords_api" chord="e7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="e7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVedim" style="display: none">
+                    <ins class="scales_chords_api" chord="edim" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="edim" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVesus" style="display: none">
+                    <ins class="scales_chords_api" chord="esus" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="esus" instrument="guitar" output="sound"></ins>
+                </div>
+
+{{-- 9th row------------------------------------------------------------------ --}}
+
+                <div id="myDIVf" style="display: none">
+                    <ins class="scales_chords_api" chord="f" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfm" style="display: none">
+                    <ins class="scales_chords_api" chord="fm" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="fm" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVf6" style="display: none">
+                    <ins class="scales_chords_api" chord="f6" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f6" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVf7" style="display: none">
+                    <ins class="scales_chords_api" chord="f7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVf9" style="display: none">
+                    <ins class="scales_chords_api" chord="f9" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f9" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfm6" style="display: none">
+                    <ins class="scales_chords_api" chord="fm6" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="fm6" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfm7" style="display: none">
+                    <ins class="scales_chords_api" chord="fm7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="fm7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVf7" style="display: none">
+                    <ins class="scales_chords_api" chord="f7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfdim" style="display: none">
+                    <ins class="scales_chords_api" chord="fdim" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="fdim" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfsus" style="display: none">
+                    <ins class="scales_chords_api" chord="fsus" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="fsus" instrument="guitar" output="sound"></ins>
+                </div>
+
+{{-- 10th row------------------------------------------------------------------ --}}
+                <div id="myDIVfs" style="display: none">
+                    <ins class="scales_chords_api" chord="f#" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f#" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfsm" style="display: none">
+                    <ins class="scales_chords_api" chord="f#m" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f#m" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVgb6" style="display: none">
+                    <ins class="scales_chords_api" chord="gb6" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="gb6" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfs7" style="display: none">
+                    <ins class="scales_chords_api" chord="f#7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f#7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfs9" style="display: none">
+                    <ins class="scales_chords_api" chord="f#9" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f#9" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfsm6" style="display: none">
+                    <ins class="scales_chords_api" chord="f#m6" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f#m6" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfsm7" style="display: none">
+                    <ins class="scales_chords_api" chord="f#m7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f#m7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVgb7" style="display: none">
+                    <ins class="scales_chords_api" chord="gb7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="gb7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVfsdim" style="display: none">
+                    <ins class="scales_chords_api" chord="f#dim" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="f#dim" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVgbsus" style="display: none">
+                    <ins class="scales_chords_api" chord="gbsus" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="gbsus" instrument="guitar" output="sound"></ins>
+                </div>
+
+
+{{-- 11th row------------------------------------------------------------------ --}}
+                <div id="myDIVg" style="display: none">
+                    <ins class="scales_chords_api" chord="g" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="g" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVgm" style="display: none">
+                    <ins class="scales_chords_api" chord="gm" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="gm" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVg6" style="display: none">
+                    <ins class="scales_chords_api" chord="g6" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="g6" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVg7" style="display: none">
+                    <ins class="scales_chords_api" chord="g7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="g7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVg9" style="display: none">
+                    <ins class="scales_chords_api" chord="g9" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="g9" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVgm6" style="display: none">
+                    <ins class="scales_chords_api" chord="gm6" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="gm6" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVgm7" style="display: none">
+                    <ins class="scales_chords_api" chord="gm7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="gm7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVg7" style="display: none">
+                    <ins class="scales_chords_api" chord="g7" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="g7" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVgdim" style="display: none">
+                    <ins class="scales_chords_api" chord="gdim" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="gdim" instrument="guitar" output="sound"></ins>
+                </div>
+                <div id="myDIVgsus" style="display: none">
+                    <ins class="scales_chords_api" chord="gsus" instrument="guitar" output="image" output="sound" width="700px;" height="500px;" nolink="true"></ins>
+                    <ins class="scales_chords_api" chord="gsus" instrument="guitar" output="sound"></ins>
+                </div>
+
             </div>
             <div class="bg-secondary p-2 d-flex flex-column text-black" style="width:100%; height:30%">
 
@@ -452,8 +623,406 @@
                     <button type="button" onclick="ebdim()" class="btn btn-light">Ebdim</button>
                     <button type="button" onclick="ebsus()" class="btn btn-light">Ebsus</button>
                   </div>
+                  <div class="btn-group btn-group-sm" role="group" aria-label="Small button group">
+                    <button type="button" onclick="e()" class="btn btn-light">E</button>
+                    <button type="button" onclick="em()" class="btn btn-light">Em</button>
+                    <button type="button" onclick="e6()" class="btn btn-light">E6</button>
+                    <button type="button" onclick="e7()" class="btn btn-light">E7</button>
+                    <button type="button" onclick="e9()" class="btn btn-light">E9</button>
+                    <button type="button" onclick="em6()" class="btn btn-light">Em6</button>
+                    <button type="button" onclick="em7()" class="btn btn-light">Em7</button>
+                    <button type="button" onclick="e7()" class="btn btn-light">E7</button>
+                    <button type="button" onclick="edim()" class="btn btn-light">Edim</button>
+                    <button type="button" onclick="esus()" class="btn btn-light">Esus</button>
+                  </div>
+                  <div class="btn-group btn-group-sm" role="group" aria-label="Small button group">
+                    <button type="button" onclick="f()" class="btn btn-light">F</button>
+                    <button type="button" onclick="fm()" class="btn btn-light">Fm</button>
+                    <button type="button" onclick="f6()" class="btn btn-light">F6</button>
+                    <button type="button" onclick="f7()" class="btn btn-light">F7</button>
+                    <button type="button" onclick="f9()" class="btn btn-light">F9</button>
+                    <button type="button" onclick="fm6()" class="btn btn-light">Fm6</button>
+                    <button type="button" onclick="fm7()" class="btn btn-light">Fm7</button>
+                    <button type="button" onclick="f7()" class="btn btn-light">F7</button>
+                    <button type="button" onclick="fdim()" class="btn btn-light">Fdim</button>
+                    <button type="button" onclick="fsus()" class="btn btn-light">Fsus</button>
+                  </div>
+                  <div class="btn-group btn-group-sm" role="group" aria-label="Small button group">
+                    <button type="button" onclick="fs()" class="btn btn-light">F#</button>
+                    <button type="button" onclick="fsm()" class="btn btn-light">F#m</button>
+                    <button type="button" onclick="gb6()" class="btn btn-light">Gb6</button>
+                    <button type="button" onclick="fs7()" class="btn btn-light">F#7</button>
+                    <button type="button" onclick="fs9()" class="btn btn-light">F#9</button>
+                    <button type="button" onclick="fsm6()" class="btn btn-light">F#m6</button>
+                    <button type="button" onclick="fsm7()" class="btn btn-light">F#m7</button>
+                    <button type="button" onclick="gb7()" class="btn btn-light">Gb7</button>
+                    <button type="button" onclick="fsdim()" class="btn btn-light">F#dim</button>
+                    <button type="button" onclick="gbsus()" class="btn btn-light">Gbsus</button>
+                  </div>
+                  <div class="btn-group btn-group-sm" role="group" aria-label="Small button group">
+                    <button type="button" onclick="g()" class="btn btn-light">G</button>
+                    <button type="button" onclick="gm()" class="btn btn-light">Gm</button>
+                    <button type="button" onclick="g6()" class="btn btn-light">G6</button>
+                    <button type="button" onclick="g7()" class="btn btn-light">G7</button>
+                    <button type="button" onclick="g9()" class="btn btn-light">G9</button>
+                    <button type="button" onclick="gm6()" class="btn btn-light">Gm6</button>
+                    <button type="button" onclick="gm7()" class="btn btn-light">Gm7</button>
+                    <button type="button" onclick="g7()" class="btn btn-light">G7</button>
+                    <button type="button" onclick="gdim()" class="btn btn-light">Gdim</button>
+                    <button type="button" onclick="gsus()" class="btn btn-light">Gsus</button>
+                  </div>
 
                   <script>
+
+                function gsus() {
+                    var x = document.getElementById("myDIVgsus");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function gdim() {
+                    var x = document.getElementById("myDIVgdim");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function g7() {
+                    var x = document.getElementById("myDIVg7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function gm7() {
+                    var x = document.getElementById("myDIVgm7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function gm6() {
+                    var x = document.getElementById("myDIVgm6");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function g9() {
+                    var x = document.getElementById("myDIVg9");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function g7() {
+                    var x = document.getElementById("myDIVg7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function g6() {
+                    var x = document.getElementById("myDIVg6");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function gm() {
+                    var x = document.getElementById("myDIVgm");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+            function g() {
+                    var x = document.getElementById("myDIVg");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+// 11th row------------------------------------------------------------------
+
+            function gbsus() {
+                    var x = document.getElementById("myDIVgbsus");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function fsdim() {
+                    var x = document.getElementById("myDIVfsdim");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function gb7() {
+                    var x = document.getElementById("myDIVgb7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function fsm7() {
+                    var x = document.getElementById("myDIVfsm7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function fs9() {
+                    var x = document.getElementById("myDIVfs9");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function fs7() {
+                    var x = document.getElementById("myDIVfs7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function gb6() {
+                    var x = document.getElementById("myDIVgb6");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function fs() {
+                    var x = document.getElementById("myDIVfs");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+// 10th row------------------------------------------------------------------
+
+                function fsus() {
+                    var x = document.getElementById("myDIVfsus");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function fdim() {
+                    var x = document.getElementById("myDIVfdim");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function f7() {
+                    var x = document.getElementById("myDIVf7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function fm7() {
+                    var x = document.getElementById("myDIVfm7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function fm6() {
+                    var x = document.getElementById("myDIVfm6");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function f9() {
+                    var x = document.getElementById("myDIVf9");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function f7() {
+                    var x = document.getElementById("myDIVf7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function f6() {
+                    var x = document.getElementById("myDIVf6");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function fm() {
+                    var x = document.getElementById("myDIVfm");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function f() {
+                    var x = document.getElementById("myDIVf");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+// 9th row------------------------------------------------------------------
+
+                function esus() {
+                    var x = document.getElementById("myDIVesus");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function edim() {
+                    var x = document.getElementById("myDIVedim");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function e7() {
+                    var x = document.getElementById("myDIVe7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function em7() {
+                    var x = document.getElementById("myDIVem7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function em6() {
+                    var x = document.getElementById("myDIVem6");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function e9() {
+                    var x = document.getElementById("myDIVe9");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function e7() {
+                    var x = document.getElementById("myDIVe7");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function e6() {
+                    var x = document.getElementById("myDIVe6");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function em() {
+                    var x = document.getElementById("myDIVem");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+                function e() {
+                    var x = document.getElementById("myDIVe");
+                    if (x.style.display === "none") {
+                      x.style.display = "block";
+                    } else {
+                      x.style.display = "none";
+                    }
+                  }
+
+// 8th row------------------------------------------------------------------
 
                 function ebsus() {
                     var x = document.getElementById("myDIVebsus");
@@ -545,7 +1114,7 @@
                     }
                   }
 
-// 5th row------------------------------------------------------------------
+// 7th row------------------------------------------------------------------
 
                 function dsus() {
                     var x = document.getElementById("myDIVdsus");
@@ -637,7 +1206,7 @@
                     }
                   }
 
-// 4th row------------------------------------------------------------------
+// 6th row------------------------------------------------------------------
 
                 function dbsus() {
                     var x = document.getElementById("myDIVdbsus");
@@ -729,7 +1298,7 @@
                     }
                   }
 
-// 4th row------------------------------------------------------------------
+// 5th row------------------------------------------------------------------
 
                 function csus() {
                     var x = document.getElementById("myDIVcsus");
@@ -812,7 +1381,7 @@
                     }
                   }
 
-// 3rd row------------------------------------------------------------------
+// 4th row------------------------------------------------------------------
                 function bsus() {
                     var x = document.getElementById("myDIVbsus");
                     if (x.style.display === "none") {
@@ -994,7 +1563,7 @@
                     }
                   }
 
-// 2st row------------------------------------------------------------------
+// 2nd row------------------------------------------------------------------
                   function asus() {
                     var x = document.getElementById("myDIVasus");
                     if (x.style.display === "none") {
